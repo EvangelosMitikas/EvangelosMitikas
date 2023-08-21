@@ -5,7 +5,9 @@ I love algorithms and programming and currently I am intetested in technologies 
 Looking forward on creating fun projects on them.
 
 ### Contact
+
 email: eee19387165@uniwa.gr
+
 linkedin: https://www.linkedin.com/in/evangelos-mitikas-491a7324b/
 
 <!--
